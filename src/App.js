@@ -2,11 +2,19 @@ import {Routes, route} from 'react-router-dom'
 import React from 'react';
 import './App.css';
 import About from './components/About';
+import Navigation from './components/Navigation';
 
 function App() {
   return (
     <div className="App">
-      <About/>
+     <Navigation />
+                <Routes>
+                    <Route path="/" element={<Intro />} />
+                    <Route path="/about" element={<About />} />
+                    {/* <Route path="/projects" element={<Projects />} />
+                    <Route path="/experience" element={<Experience />} />
+                    <Route path="/contact" element={<Contact />} /> */}
+                </Routes>
     </div>
   );
 }
