@@ -8,6 +8,7 @@ import Intro from './components/Intro';
 function App() {
   return (
     <div className="App">
+      
      <Navigation />
                 <Routes>
                     <Route path="/" element={<Intro />} />
@@ -16,6 +17,7 @@ function App() {
                     <Route path="/experience" element={<Experience />} />
                     <Route path="/contact" element={<Contact />} /> */}
                 </Routes>
+                
     </div>
   );
 }

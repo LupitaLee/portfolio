@@ -7,10 +7,13 @@
     flex-flow: column wrap;
     align-items: stretch;
     align-content: center;
+    background-color: #d9d9d9;
+ 
 }
 
-.name{
-    color: #407599;
+
+.intro-name{
+    color: #284b63;
     font-size: 30px;
     margin-top: 15%;
     letter-spacing: 7pt;
@@ -21,11 +24,32 @@
     -ms-animation: fadeIn ease 3s;
 }
 
-.name h1{
+.intro-name h1{
     margin-left: 20pt;
 }
 
-.tagline{
+.intro-bio{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350pt;
+    animation: fadeIn ease 7s;
+    -webkit-animation: fadeIn ease 7s;
+    -moz-animation: fadeIn ease 7s;
+    -o-animation: fadeIn ease 7s;
+    -ms-animation: fadeIn ease 7s;
+
+}
+
+.intro-bio p{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    color: #3C6E71;
+}
+
+.intro-tagline{
     color: #353535;
     font-size: 20px;
     animation: fadeIn ease 5s;
@@ -34,3 +58,4 @@
     -o-animation: fadeIn ease 5s;
     -ms-animation: fadeIn ease 5s;
 }
+
