@@ -1,0 +1,36 @@
+
+#intro {
+    width: 100vw;
+    min-height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: stretch;
+    align-content: center;
+}
+
+.name{
+    color: #407599;
+    font-size: 30px;
+    margin-top: 15%;
+    letter-spacing: 7pt;
+    animation: fadeIn ease 3s;
+    -webkit-animation: fadeIn ease 3s;
+    -moz-animation: fadeIn ease 3s;
+    -o-animation: fadeIn ease 3s;
+    -ms-animation: fadeIn ease 3s;
+}
+
+.name h1{
+    margin-left: 20pt;
+}
+
+.tagline{
+    color: #353535;
+    font-size: 20px;
+    animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+    -moz-animation: fadeIn ease 5s;
+    -o-animation: fadeIn ease 5s;
+    -ms-animation: fadeIn ease 5s;
+}

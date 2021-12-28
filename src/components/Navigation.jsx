@@ -12,9 +12,9 @@ const Navigation = () => {
                <Nav className="me-auto">
          
                  <Nav.Link href="/about">About</Nav.Link>
-                 <Nav.Link href="/login">Projects</Nav.Link>
-                 <Nav.Link href="/login">Experience</Nav.Link>
-                 <Nav.Link href="/signup">Contact</Nav.Link>
+                 <Nav.Link href="/projects">Projects</Nav.Link>
+                 <Nav.Link href="/experience">Experience</Nav.Link>
+                 <Nav.Link href="/Contact">Contact</Nav.Link>
                 
 
             
