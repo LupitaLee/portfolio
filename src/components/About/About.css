@@ -1,0 +1,38 @@
+#about{
+    min-height: 100vh;
+    display: inline-flex;
+    flex-flow: column wrap;
+    background-color: #ffffff;
+}
+
+.about-title {
+    margin-top: 120px;
+    height: 100px;
+    color: #284b63;
+    background-color:  #3c6e71;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: 25pt;
+}
+
+.about-title h3{
+    margin-left: 25pt;
+    font-size: 1.5em;
+    letter-spacing: 4pt;
+}
+
+.about-content {
+    color: #353535;
+    padding-top: 50px;
+    margin: 60px 70px 20px 70px;
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+#about-text{
+    margin-right: 25px;
+    max-width: 60%;
+}
