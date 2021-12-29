@@ -48,32 +48,15 @@
     height: auto;
     border-radius: 2px;
     position: relative;
+    border-radius: 6em;
+
+    animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+    -moz-animation: fadeIn ease 5s;
+    -o-animation: fadeIn ease 5s;
+    -ms-animation: fadeIn ease 5s;
+
+    opacity: 1;
+    transition: opacity 500ms ease-in
+    
 }
-
-/* #photo-div {
-    display: inline-block;
-    position: relative;
-    border-radius: 2px;
-} */
-/* #photo-div::before {
-    content: '';
-    display: block;
-    z-index: -1;
-    position: absolute;
-    bottom: 10%;
-    left: 15%;
-    border: 4px solid #B07156;
-    border-radius: 2px;
-    height: 250px;
-    width: 100%;
-} */
-
-/* #photo-div:hover::before {
-    transform: translate(5px, 5px);
-    transition: all 0.3s linear;
-} */
-
-/* #location{
-    color: #978ea0;
-    font-size: 20px;
-} */

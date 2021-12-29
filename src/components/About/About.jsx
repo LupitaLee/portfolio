@@ -17,11 +17,9 @@ const About = () => {
                 </div>
 
                 <div id='photo-div' className='prof-pic'>
-                    <img id='prof-pic' src="/profile-pic.png" alt='Lupita Rivera Profile Pic '></img>
+                    <img id='prof-pic' src="/p-pic.jpg" alt='Lupita Rivera Profile Pic '></img>
                 </div>
-                <div className='pic-border'>
-
-                </div>
+              
 
             </div>
 
