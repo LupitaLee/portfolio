@@ -35,4 +35,45 @@
 #about-text{
     margin-right: 25px;
     max-width: 60%;
+    color: #353535;
+    font-size: 20px;
 }
+
+
+
+
+
+#prof-pic {
+    width: 250px;
+    height: auto;
+    border-radius: 2px;
+    position: relative;
+}
+
+/* #photo-div {
+    display: inline-block;
+    position: relative;
+    border-radius: 2px;
+} */
+/* #photo-div::before {
+    content: '';
+    display: block;
+    z-index: -1;
+    position: absolute;
+    bottom: 10%;
+    left: 15%;
+    border: 4px solid #B07156;
+    border-radius: 2px;
+    height: 250px;
+    width: 100%;
+} */
+
+/* #photo-div:hover::before {
+    transform: translate(5px, 5px);
+    transition: all 0.3s linear;
+} */
+
+/* #location{
+    color: #978ea0;
+    font-size: 20px;
+} */
