@@ -5,6 +5,7 @@ import About from './components/About/About';
 import Navigation from './components/Navigation';
 import Intro from './components/Intro/Intro';
 import Contact from './components/Contact/Contact';
+import Project from './components/Projects/Project';
 
 function App() {
   return (
@@ -15,12 +16,13 @@ function App() {
         <Routes>
             <Route path="/#" element={<Intro />} />
             <Route path="/#about" element={<About />} />
-            {/* <Route path="/projects" element={<Projects />} /> */}
+            <Route path="/#projects" element={<Project />} />
              {/* <Route path="/experience" element={<Experience />} /> */}
              <Route path="/#contact" element={<Contact />} />
         </Routes>
 
-        <About /> 
+        <About />
+        <Project /> 
         <Contact/>
         </Router>
                 

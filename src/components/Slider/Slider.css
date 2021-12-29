@@ -1,0 +1,30 @@
+.ImageSlider{
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-items: center; */
+
+  
+
+   
+
+  }
+
+
+  img{
+    width: 1000px;
+    height: 500Px;
+    border: 4px solid #284b63;
+    padding: 3px;
+
+    /* animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+    -moz-animation: fadeIn ease 5s;
+    -o-animation: fadeIn ease 5s;
+    -ms-animation: fadeIn ease 5s; */
+
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+
+    align-items: center;
+    
+  }
