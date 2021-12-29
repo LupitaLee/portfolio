@@ -15,6 +15,14 @@ const About = () => {
                         Yet we never finish learning and there’s certainly more to learn, more problems to solve, and more to build. And for this, I am very grateful.
                         </p>
                 </div>
+
+                <div id='photo-div' className='prof-pic'>
+                    <img id='prof-pic' src="/profile-pic.png" alt='Lupita Rivera Profile Pic '></img>
+                </div>
+                <div className='pic-border'>
+
+                </div>
+
             </div>
 
         </div>
