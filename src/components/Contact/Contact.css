@@ -44,13 +44,22 @@
 }
 
 .socials a {
+    color: #284b63 ;
     width: 120px;
     height: 120px;
     margin: 60px;
+    font-size: 3em;
+    
+    
+
 }
+
 
 .socials a:hover{
     opacity: 30%;
     transform: scale(1.05);
     transition: all 0.3s linear;
+    color: #3c6e71;
+  
  } 
+
