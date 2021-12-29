@@ -1,5 +1,8 @@
 
 #intro {
+   
+
+
     width: 100vw;
     min-height: 100vh;
     text-align: center;
@@ -13,6 +16,8 @@
 
 
 .intro-name{
+
+    
     color: #284b63;
     font-size: 30px;
     margin-top: 15%;

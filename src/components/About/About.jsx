@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 
 const About = () => {
-    const bullet = <span style={{ color: '#3c6e71' }}>♦ </span>
+    const bullet = <span style={{ color: '#3c6e71' }}>✿ </span>
     return (
         <div id='about'>
             <div className='about-title'>
@@ -21,7 +21,7 @@ const About = () => {
                         <li>{bullet}Ruby on Rails</li>
                         <li>{bullet}Sinatra</li>
                         <li>{bullet}SQL</li>
-                        <li>{bullet}HTML / CSS / SASS</li>
+                        <li>{bullet}HTML / CSS / BOOTSTRAP</li>
                         <li>{bullet}Git / Github</li>
                     </ul>
 
