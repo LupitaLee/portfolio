@@ -1,0 +1,21 @@
+#project{
+    min-height: 100vh;
+    width: 100%;
+    display: inline-flex;
+    flex-flow: column wrap;
+
+  
+}
+
+
+/* .project-title {
+    margin-top: 20px;
+    height: 100px;
+    color: #284b63;
+    background-color:  #3c6e71;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: 20pt;
+
+} */

@@ -1,8 +1,7 @@
 
+
 #intro {
-   
-
-
+ 
     width: 100vw;
     min-height: 100vh;
     text-align: center;
@@ -14,13 +13,25 @@
  
 }
 
+.intro-hello{
+    text-align: left;
+      color: #353535;
+      font-size: 20px;
+      margin-top: 15%;
+      letter-spacing: 1pt;
+      animation: fadeIn ease 3s;
+      -webkit-animation: fadeIn ease 3s;
+      -moz-animation: fadeIn ease 3s;
+      -o-animation: fadeIn ease 3s;
+      -ms-animation: fadeIn ease 3s;
+  }
 
 .intro-name{
 
-    
+   
     color: #284b63;
-    font-size: 30px;
-    margin-top: 15%;
+    font-size: 35px;
+    margin-top: 4%;
     letter-spacing: 7pt;
     animation: fadeIn ease 3s;
     -webkit-animation: fadeIn ease 3s;
@@ -31,7 +42,8 @@
 
 .intro-name h1{
     margin-left: 20pt;
-    font-size: 45px;
+    font-size: 50px;
+    font-weight: bold;
     /* font-family: 'Open Sans', sans-serif; */
 }
 

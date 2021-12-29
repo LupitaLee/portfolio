@@ -5,28 +5,30 @@ const Intro = () => {
 
     
     return (
-        
-        <div id='intro' >
+        <div>
+        {/* <div className="intro-hello">Hello, My name is</div> */}
+            <div id='intro' >
 
-        
+            <div className="intro-hello"><h3>Hello, My name is</h3></div>
 
-            <div className='intro-name'>
-              
-            <h1> Lupita Rivera</h1><span style={{ color: '#3c6e71' }}> ✿ </span>
-            </div>
+                <div className='intro-name'>
             
-            <div className='intro-tagline'>
-            <h3>Full Stack Software Engineer</h3>
-            </div>
-            
-            <div className="intro-bio">
-                <p>
-                Experienced React JS and Ruby on Rails developer with a background in the costumer service industry.
-                </p>
-            </div>
+                <h1> Lupita Rivera</h1><span style={{ color: '#3c6e71' }}> ✿ </span>
+                </div>
+                
+                <div className='intro-tagline'>
+                <h3>Full Stack Software Engineer</h3>
+                </div>
+                
+                <div className="intro-bio">
+                    <p>
+                    Experienced React JS and Ruby on Rails developer with a background in the costumer service industry.
+                    </p>
+                </div>
 
-           
-           
+            
+            
+            </div>
         </div>
     )
 }

@@ -8,8 +8,8 @@ const Contact = () => {
     return (
        
               <div id='contact' >
-                <div className='contact-title'>
-                    <h3><span style={{ color: '#353535' }}>&gt;</span>CONTACT ME</h3>
+                <div className='title'>
+                    <h3><span style={{ color: '#353535' }}>&gt;</span>CONTACT</h3>
                 </div>
                 <div className='contact-content'>
                     <div className='socials'>

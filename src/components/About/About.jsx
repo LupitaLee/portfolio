@@ -5,7 +5,7 @@ const About = () => {
     const bullet = <span style={{ color: '#3c6e71' }}>✿ </span>
     return (
         <div id='about'>
-            <div className='about-title'>
+            <div className='title'>
                 <h3><span style={{ color: '#353535' }}>&gt;</span> ABOUT ME</h3>
             </div>
             <div className='about-content'>

@@ -5,7 +5,7 @@
     /* background-color: #ffffff; */
 }
 
-.about-title {
+.title {
     margin-top: 20px;
     height: 100px;
     color: #284b63;
@@ -16,7 +16,7 @@
     font-size: 20pt;
 }
 
-.about-title h3{
+.title h3{
     margin-left: 25pt;
     font-size: 1.5em;
     letter-spacing: 4pt;

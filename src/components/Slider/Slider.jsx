@@ -9,13 +9,18 @@ const Slider = () => {
         <div className="ImageSlider">
             <Carousel>
             <Carousel.Item>
-                <img className="ImageSlider-img"
+
+            <a href='https://github.com/LupitaLee/dallas_amigos_frontend'>
+            <img className="ImageSlider-img"
                 // className="d-block w-100"
                 src="https://media.istockphoto.com/photos/dallas-at-dusk-picture-id522580445?b=1&k=20&m=522580445&s=170667a&w=0&h=OxztE0otc9tFoQ2UZNPB5-NzgCra8oGLp0qVjwE-7Bk="
                 
                 height="300" width="1200" 
                 alt="First slide"
                 />
+                                
+                </a>
+               
                 <Carousel.Caption>
                 <h3>DALLAS AMIGOS</h3>
                 <p>React / Redux</p>
