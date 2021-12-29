@@ -26,6 +26,8 @@
 
 .intro-name h1{
     margin-left: 20pt;
+    font-size: 45px;
+    /* font-family: 'Open Sans', sans-serif; */
 }
 
 .intro-bio{
@@ -58,4 +60,6 @@
     -o-animation: fadeIn ease 5s;
     -ms-animation: fadeIn ease 5s;
 }
+
+
 
