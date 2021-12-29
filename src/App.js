@@ -4,6 +4,7 @@ import './App.css';
 import About from './components/About/About';
 import Navigation from './components/Navigation';
 import Intro from './components/Intro/Intro';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </Routes>
 
         <About /> 
+        <Contact/>
         </Router>
                 
     </div>
