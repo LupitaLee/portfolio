@@ -7,6 +7,7 @@ import Intro from './components/Intro/Intro';
 import Contact from './components/Contact/Contact';
 import Project from './components/Projects/Project';
 import Experience from './components/Experience/Experience';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
         <Project /> 
         <Experience />
         <Contact/>
+        <Footer/>
         </Router>
                 
     </div>

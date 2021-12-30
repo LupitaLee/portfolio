@@ -3,6 +3,7 @@
     display: inline-flex;
     flex-flow: column wrap;
     /* background-color: #ffffff; */
+  
 }
 
 .title {
@@ -88,6 +89,15 @@
     transition: opacity 500ms ease-in
     
 }
-img:hover {
+/* img:hover {
     box-shadow: 0 0 3px 6px rgba(32, 70, 82, 0.5);
-  }
+  } */
+
+
+
+
+
+img.about__img{
+    border-radius: 10px;
+    width: 100%;
+}
