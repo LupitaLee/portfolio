@@ -2,7 +2,17 @@
 
 #intro {
  
-    width: 100vw;
+    /* width: 100vw;
+    min-height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: stretch;
+    align-content: center;
+    background-color: #d9d9d9; */
+
+
+     width: 100vw;
     min-height: 100vh;
     text-align: center;
     display: flex;
@@ -69,6 +79,7 @@
 }
 
 .intro-tagline{
+    margin-top: 4%;
     color: #353535;
     font-size: 20px;
     animation: fadeIn ease 5s;

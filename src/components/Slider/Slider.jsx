@@ -28,6 +28,29 @@ const Slider = () => {
                 </Carousel.Caption>
             </Carousel.Item>
 
+
+            <Carousel.Item>
+
+            <a href='https://github.com/LupitaLee/portfolio'>
+            <img className="ImageSlider-img"
+                // className="d-block w-100"
+                src="/lr.png"
+                
+                height="300" width="1200" 
+                alt="First slide"
+                />
+                                
+                </a>
+               
+                <Carousel.Caption>
+                <h3>THIS PORTFOLIO WEBSITE</h3>
+                <p>React / Github Pages</p>
+                
+                </Carousel.Caption>
+            </Carousel.Item>
+
+
+
             <Carousel.Item>
                 <a href="https://github.com/LupitaLee/FoodCourtOnline">
                 <img className="ImageSlider-img"
@@ -96,6 +119,8 @@ const Slider = () => {
                 </Carousel.Caption>
             </Carousel.Item>
             </Carousel>
+
+
             </div>
     )
 }
