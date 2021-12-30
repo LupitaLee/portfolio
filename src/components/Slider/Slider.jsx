@@ -29,6 +29,7 @@ const Slider = () => {
             </Carousel.Item>
 
             <Carousel.Item>
+                <a href="https://github.com/LupitaLee/FoodCourtOnline">
                 <img className="ImageSlider-img"
                 // className="d-block w-100"
                 src="https://images.unsplash.com/photo-1593768128575-e41545e803d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbGwlMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
@@ -36,18 +37,24 @@ const Slider = () => {
                 alt="Second slide"
                 />
 
+                </a>
+                
+
                 <Carousel.Caption>
                 <h3>Food Court Online</h3>
                 <p>Vanilla Javascript</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
+                <a href="https://github.com/LupitaLee/myphotos">
                 <img className="ImageSlider-img"
-                // className="d-block w-100"
-                src="https://images.unsplash.com/photo-1480365501497-199581be0e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG9zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-                height="300" width="1200"
-                alt="Third slide"
-                />
+                    // className="d-block w-100"
+                    src="https://images.unsplash.com/photo-1480365501497-199581be0e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG9zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                    height="300" width="1200"
+                    alt="Third slide"
+                    />
+                </a>
+               
 
                 <Carousel.Caption>
                 <h3>MY PHOTOS</h3>
@@ -56,12 +63,15 @@ const Slider = () => {
             </Carousel.Item>
 
             <Carousel.Item>
-                <img className="ImageSlider-img"
-                // className="d-block w-100"
-                src="https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGhvdG8lMjBsaXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
-                height="300" width="1200"
-                alt="Third slide"
-                />
+                <a href="https://github.com/LupitaLee/photos_website">
+                    <img className="ImageSlider-img"
+                    // className="d-block w-100"
+                    src="https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGhvdG8lMjBsaXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                    height="300" width="1200"
+                    alt="Third slide"
+                    />
+                </a>
+                
 
                 <Carousel.Caption>
                 <h3>PHOTOS WEBSITE</h3>
@@ -70,12 +80,15 @@ const Slider = () => {
             </Carousel.Item>
 
             <Carousel.Item>
+                <a href="https://github.com/LupitaLee/quotes">
                 <img className="ImageSlider-img"
-                // className="d-block w-100"
-                src="https://images.unsplash.com/photo-1501747315-124a0eaca060?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHF1b3Rlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-                height="300" width="1200"
-                alt="Third slide"
-                />
+                    // className="d-block w-100"
+                    src="https://images.unsplash.com/photo-1501747315-124a0eaca060?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHF1b3Rlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                    height="300" width="1200"
+                    alt="Third slide"
+                    />    
+                </a>
+                
 
                 <Carousel.Caption>
                 <h3>QUOTES</h3>
