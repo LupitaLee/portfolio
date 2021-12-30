@@ -6,6 +6,7 @@ import Navigation from './components/Navigation';
 import Intro from './components/Intro/Intro';
 import Contact from './components/Contact/Contact';
 import Project from './components/Projects/Project';
+import Experience from './components/Experience/Experience';
 
 
 function App() {
@@ -18,12 +19,13 @@ function App() {
             <Route path="/#" element={<Intro />} />
             <Route path="/#about" element={<About />} />
             <Route path="/#projects" element={<Project />} />
-             <Route path="/experience" element={<Experience />} />
+             <Route path="/#experience" element={<Experience />} />
              <Route path="/#contact" element={<Contact />} />
         </Routes>
 
         <About />
         <Project /> 
+        <Experience />
         <Contact/>
         </Router>
                 
