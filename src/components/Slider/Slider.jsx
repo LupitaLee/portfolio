@@ -31,7 +31,7 @@ const Slider = () => {
             <Carousel.Item>
                 <img className="ImageSlider-img"
                 // className="d-block w-100"
-                src="https://media.istockphoto.com/photos/elegant-shopping-mall-picture-id182408547?b=1&k=20&m=182408547&s=170667a&w=0&h=dxcQDv7oIlcVOcLBFbduw78perQh1QOHFw9ZhN6Vgfg="
+                src="https://images.unsplash.com/photo-1593768128575-e41545e803d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbGwlMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 height="300" width="1200"
                 alt="Second slide"
                 />
@@ -44,7 +44,7 @@ const Slider = () => {
             <Carousel.Item>
                 <img className="ImageSlider-img"
                 // className="d-block w-100"
-                src="https://images.unsplash.com/file-1635810583070-cc3f45744c3fimage"
+                src="https://images.unsplash.com/photo-1480365501497-199581be0e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG9zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 height="300" width="1200"
                 alt="Third slide"
                 />
