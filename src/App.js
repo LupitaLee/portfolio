@@ -15,21 +15,23 @@ function App() {
     <div className="App">
       <Router>
      <Navigation />
-     <Intro/>
+     
         <Routes>
-            <Route path="/#" element={<Intro />} />
-            <Route path="/#about" element={<About />} />
-            <Route path="/#projects" element={<Project />} />
-             <Route path="/#experience" element={<Experience />} />
-             <Route path="/#contact" element={<Contact />} />
-        </Routes>
-
+           
+            {/* <Route path="/" element={<Intro />} /> */}
+            <Route path="/about" element={<About />} />
+            <Route path="/projects" element={<Project />} />
+             <Route path="/experience" element={<Experience />} />
+             <Route path="/contact" element={<Contact />} />
+             </Routes>
+       
+        </Router>
+        <Intro/>
         <About />
         <Project /> 
         <Experience />
         <Contact/>
         <Footer/>
-        </Router>
                 
     </div>
   );
