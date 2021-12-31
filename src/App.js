@@ -17,8 +17,6 @@ function App() {
      <Navigation />
      
         <Routes>
-           
-            {/* <Route path="/" element={<Intro />} /> */}
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Project />} />
              <Route path="/experience" element={<Experience />} />
@@ -26,6 +24,7 @@ function App() {
              </Routes>
        
         </Router>
+
         <Intro/>
         <About />
         <Project /> 
