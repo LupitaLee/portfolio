@@ -3,7 +3,7 @@
     width: 100%;
     display: inline-flex;
     flex-flow: column wrap;
-    background-color: #d9d9d9;
+    background-color: #001f54;
   
 }
 
@@ -23,7 +23,7 @@
 }
 
 .socials a {
-    color: #284b63 ;
+    color: #fefcfb ;
     width: 120px;
     height: 120px;
     margin: 60px;
@@ -38,7 +38,7 @@
     opacity: 30%;
     transform: scale(1.05);
     transition: all 0.3s linear;
-    color: #3c6e71;
+    color: #1282a2;
   
  } 
 

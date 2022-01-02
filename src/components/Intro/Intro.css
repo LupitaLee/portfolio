@@ -19,13 +19,13 @@
     flex-flow: column wrap;
     align-items: stretch;
     align-content: center;
-    background-color: #d9d9d9;
+    background-color: #001f54;
  
 }
 
 .intro-hello{
     text-align: left;
-      color: #353535;
+      color: #1282a2;
       font-size: 20px;
       margin-top: 15%;
       letter-spacing: 1pt;
@@ -39,7 +39,7 @@
 .intro-name{
 
    
-    color: #284b63;
+    color: #fefcfb;
     font-size: 35px;
     margin-top: 4%;
     letter-spacing: 7pt;
@@ -75,12 +75,12 @@
     display: flex;
     justify-content: center;
     padding: 30px;
-    color: #3C6E71;
+    color: #1282a2;
 }
 
 .intro-tagline{
     margin-top: 4%;
-    color: #353535;
+    color: #fefcfb;
     font-size: 20px;
     animation: fadeIn ease 5s;
     -webkit-animation: fadeIn ease 5s;
