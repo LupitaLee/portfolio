@@ -6,7 +6,7 @@ const Navigation = () => {
         <div  >
             <Navbar bg="light" expand="lg"  >
            <Container >
-             <Navbar.Brand href="/">Portfolio</Navbar.Brand>
+             <Navbar.Brand href="/" style={{ color: '#034078' }} >Portfolio</Navbar.Brand>
              <Navbar.Toggle aria-controls="basic-navbar-nav" />
              <Navbar.Collapse id="basic-navbar-nav">
                <Nav className="me-auto">
