@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Project.css"
 
-import Slider from '../Slider/Slider'
+// import Slider from '../Slider/Slider'
 
 const Project = () => {
     return (
@@ -9,7 +9,7 @@ const Project = () => {
             <div className='title'>
                 <h3><span style={{ color: '#353535' }}>&gt;</span> PROJECTS</h3>
             </div>
-                <Slider/>
+                {/* <Slider/> */}
             
         </div>
     )
