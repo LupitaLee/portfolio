@@ -13,7 +13,30 @@ const About = () => {
   
             <div className='about-content'>
                 <div id='about-text'>
+
                     <p>
+                    As a Full Stack Web Developer, I thrive in a dynamic environment and am confident in my decision-making ability. A quick learner, creative thinker, and problem-solver, I’m experienced with:
+                    </p>
+
+                    <ul>
+                        <li>{bullet}JavaScript (ES6+)</li>
+                        <li>{bullet}React</li>
+                        <li>{bullet}Redux</li>
+                        <li>{bullet}Ruby on Rails</li>
+                        <li>{bullet}Sinatra</li>
+                        <li>{bullet}SQL</li>
+                        <li>{bullet}HTML / CSS / ReactBootstrap</li>
+                        <li>{bullet}Git / Github</li>
+                    </ul>
+
+                    <p>
+                    
+                    When I’m not coding, I’m learning the Korean Language, and supporting the family business.
+                    </p>
+
+
+
+                    {/* <p>
                         In my short time as a software engineer, I have learned to develop quickly, learning new skills. programming languages, problem-solving, and Model View Controller (MVC) methods of organizing code.Experienced with:
                     </p>
 
@@ -32,7 +55,7 @@ const About = () => {
                         I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
 
                         Yet we never finish learning and there’s certainly more to learn, more problems to solve, and more to build. And for this, I am very grateful.
-                        </p>
+                        </p> */}
 
                     
                 </div>

@@ -20,10 +20,12 @@ const Experience = () => {
                 <h3><span style={{ color: '#353535' }}>&gt;</span> EXPERIENCE</h3>
             </div>
 
-            <h3>Résumé</h3>
+           
 
-            <div>
-            <a class="btn btn-dark btn-xl" href="https://docs.google.com/document/d/1PwyhmqWtJoo9GvrLx0JhWJJU8sUZ7KHRFhLRGhdP7O0/edit?usp=sharing">Download PDF Version</a>
+            <div className="experience-resume">
+                <h3 >Résumé</h3>
+
+                <a class="btn btn-dark btn-xl" href="https://docs.google.com/document/d/1PwyhmqWtJoo9GvrLx0JhWJJU8sUZ7KHRFhLRGhdP7O0/edit?usp=sharing">Download PDF Version</a>
             </div>
            
 
@@ -55,7 +57,7 @@ const Experience = () => {
 
                     </Nav>
                     </Col>
-                    <Col sm={9}>
+                    <Col sm={7}>
                     <Tab.Content>
                         <Tab.Pane eventKey="first">
 
