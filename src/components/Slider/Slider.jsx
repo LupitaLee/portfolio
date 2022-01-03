@@ -59,15 +59,13 @@ const Slider = () => {
                 height="300" width="1200"
                 alt="Second slide"
                 />
-
                 </a>
-                
-
                 <Carousel.Caption>
                 <h3>Food Court Online</h3>
                 <p>Vanilla Javascript</p>
                 </Carousel.Caption>
             </Carousel.Item>
+            
             <Carousel.Item>
                 <a href="https://github.com/LupitaLee/myphotos">
                 <img className="ImageSlider-img"
