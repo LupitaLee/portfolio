@@ -21,11 +21,29 @@ const Experience = () => {
                     <Col sm={3}>
                     <Nav variant="pills" className="flex-column">
                         <Nav.Item>
-                        <Nav.Link eventKey="first">FlatIron School</Nav.Link>
+                        <Nav.Link eventKey="first">Software Engineer Student</Nav.Link>
                         </Nav.Item>
+
                         <Nav.Item>
-                        <Nav.Link eventKey="second">NISI USA</Nav.Link>
+                        <Nav.Link eventKey="second">Customer Service Rep.</Nav.Link>
                         </Nav.Item>
+
+                        <Nav.Item>
+                        <Nav.Link eventKey="third">Office Assistant</Nav.Link>
+                        </Nav.Item>
+
+                        <Nav.Item>
+                        <Nav.Link eventKey="fourth">Customer Service Rep.</Nav.Link>
+                        </Nav.Item>
+
+                        <Nav.Item>
+                        <Nav.Link eventKey="fifth">Sales Rep.</Nav.Link>
+                        </Nav.Item>
+
+                        <Nav.Item>
+                        <Nav.Link eventKey="sixth">Motherboard Tester / QC (Quality Control)</Nav.Link>
+                        </Nav.Item>
+
                     </Nav>
                     </Col>
                     <Col sm={9}>
@@ -33,7 +51,7 @@ const Experience = () => {
                         <Tab.Pane eventKey="first">
 
                         <FlatironSchool />
-                        
+
                         </Tab.Pane>
                         <Tab.Pane eventKey="second">
                         {/* <Sonnet /> */}

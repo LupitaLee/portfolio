@@ -3,7 +3,7 @@ import React from 'react'
 const FlatironSchool = () => {
     return (
         <div id="flatironschool">
-            <h3> Software Engineer Student </h3>
+            <h3> FlatIron School </h3>
 
             <ul>
                 <li>Frontend: JS fundamentals (ES6+), Component Pattern, React.js, Redux</li> 
