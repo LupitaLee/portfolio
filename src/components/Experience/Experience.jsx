@@ -4,6 +4,7 @@ import { Nav, Col, Tab, Row,} from 'react-bootstrap'
 
 import FlatironSchool from '../FlatironSchool'
 import Nisi from '../Nisi'
+import TexasProSigns from '../TexasProSigns'
 
 
 
@@ -51,13 +52,19 @@ const Experience = () => {
                     <Tab.Content>
                         <Tab.Pane eventKey="first">
 
-                        <FlatironSchool />
+                            <FlatironSchool />
 
                         </Tab.Pane>
 
                         <Tab.Pane eventKey="second">
-                        <Nisi />
+                            <Nisi />
                         </Tab.Pane>
+
+                        <Tab.Pane eventKey="third">
+                            <TexasProSigns />
+                        </Tab.Pane>
+
+                        
 
                     </Tab.Content>
                     </Col>
