@@ -25,7 +25,8 @@ const About = () => {
                         <li>{bullet}Ruby on Rails</li>
                         <li>{bullet}Sinatra</li>
                         <li>{bullet}SQL</li> 
-                        <li>{bullet}HTML / CSS / ReactBootstrap</li>
+                        <li>{bullet}HTML / CSS / React
+                        Bootstrap</li>
                         <li>{bullet}Git / Github</li>
                     </ul>
 
@@ -44,7 +45,7 @@ const About = () => {
 
                 
                 <div className="col__2">
-                    <img src="/p-pic.jpg" alt=""  />
+                    <img src="/profile-pic.png" alt=""  />
                 </div>
 
             </div>

@@ -9,7 +9,7 @@ const Contact = () => {
        
               <div id='contact' >
                 <div className='title'>
-                    <h3><span style={{ color: '#353535' }}>&gt;</span>CONTACT</h3>
+                    <h3><span style={{ color: '#0a1128' }}>&gt;</span>CONTACT</h3>
                 </div>
                 <div className='contact-content'>
                     <div className='socials'>
