@@ -5,6 +5,7 @@ import { Nav, Col, Tab, Row,} from 'react-bootstrap'
 import FlatironSchool from '../FlatironSchool'
 import Nisi from '../Nisi'
 import TexasProSigns from '../TexasProSigns'
+import CricketWireless from '../CricketWireless'
 
 
 
@@ -46,6 +47,8 @@ const Experience = () => {
                         <Nav.Link eventKey="fifth">Motherboard Tester / QC (Quality Control)</Nav.Link>
                         </Nav.Item>
 
+                        
+
                     </Nav>
                     </Col>
                     <Col sm={9}>
@@ -62,6 +65,10 @@ const Experience = () => {
 
                         <Tab.Pane eventKey="third">
                             <TexasProSigns />
+                        </Tab.Pane>
+
+                        <Tab.Pane eventKey="fourth">
+                            <CricketWireless />
                         </Tab.Pane>
 
                         
