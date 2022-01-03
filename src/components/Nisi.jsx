@@ -8,7 +8,7 @@ const Nisi = () => {
             <ul>
                 <li>Trained new employees in Customer Service script recitation, Conflict Resolution, and data entry practices.</li> 
                 <li>Multitask Handling various calls on a daily basis while consistently resolving client issues in a rapid manner.</li>
-            
+                <li>Call clients to schedule appointments and follow up on visits.</li>
             </ul>
            
         </div>
