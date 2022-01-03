@@ -12,11 +12,20 @@ import Motherboard from '../Motherboard'
 
 const Experience = () => {
     return (
+        <div>
+
+        
         <div id="experience">
             <div className='title'>
                 <h3><span style={{ color: '#353535' }}>&gt;</span> EXPERIENCE</h3>
             </div>
-          
+
+            <h3>Résumé</h3>
+
+            <div>
+            <a class="btn btn-dark btn-xl" href="https://docs.google.com/document/d/1PwyhmqWtJoo9GvrLx0JhWJJU8sUZ7KHRFhLRGhdP7O0/edit?usp=sharing">Download PDF Version</a>
+            </div>
+           
 
             <div className='experience-Tab'>
 
@@ -36,10 +45,6 @@ const Experience = () => {
                         <Nav.Link eventKey="third">Office Assistant</Nav.Link>
                         </Nav.Item>
 
-                        {/* <Nav.Item>
-                        <Nav.Link eventKey="fourth">Customer Service Rep.</Nav.Link>
-                        </Nav.Item> */}
-
                         <Nav.Item>
                         <Nav.Link eventKey="fourth">Sales Rep.</Nav.Link>
                         </Nav.Item>
@@ -47,8 +52,6 @@ const Experience = () => {
                         <Nav.Item>
                         <Nav.Link eventKey="fifth">Motherboard Tester / QC (Quality Control)</Nav.Link>
                         </Nav.Item>
-
-                        
 
                     </Nav>
                     </Col>
@@ -76,16 +79,20 @@ const Experience = () => {
                             <Motherboard />
                         </Tab.Pane>
 
-
-                        
-
                     </Tab.Content>
                     </Col>
                 </Row>
                 </Tab.Container>
             </div>
 
+            
+
+
          
+        </div>
+
+        
+
         </div>
     )
 }
