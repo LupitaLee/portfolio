@@ -5,7 +5,7 @@ import About from './components/About/About';
 import Navigation from './components/Navigation';
 import Intro from './components/Intro/Intro';
 import Contact from './components/Contact/Contact';
-import Project from './components/Projects/Project';
+import Projects from './components/Projects/Projects';
 import Experience from './components/Experience/Experience';
 import Footer from './components/Footer/Footer';
 
@@ -18,7 +18,7 @@ function App() {
      
         <Routes>
             <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Project />} />
+            <Route path="/projects" element={<Projects />} />
              <Route path="/experience" element={<Experience />} />
              <Route path="/contact" element={<Contact />} />
              </Routes>
@@ -27,7 +27,7 @@ function App() {
 
         <Intro/>
         <About />
-        <Project /> 
+        <Projects /> 
         <Experience />
         <Contact/>
         <Footer/>

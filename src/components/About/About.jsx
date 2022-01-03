@@ -24,7 +24,7 @@ const About = () => {
                         <li>{bullet}Redux</li>
                         <li>{bullet}Ruby on Rails</li>
                         <li>{bullet}Sinatra</li>
-                        <li>{bullet}SQL</li>
+                        <li>{bullet}SQL</li> 
                         <li>{bullet}HTML / CSS / ReactBootstrap</li>
                         <li>{bullet}Git / Github</li>
                     </ul>
@@ -60,14 +60,14 @@ const About = () => {
                     
                 </div>
 
-                <div id='photo-div' className='prof-pic'>
+                {/* <div id='photo-div' className='prof-pic'>
                     <img id='prof-pic' src="/p-pic.jpg" alt='Lupita Rivera Profile Pic '></img>
-                </div>
+                </div> */}
 
                 
-                {/* <div className="col__2">
+                <div className="col__2">
                     <img src="/p-pic.jpg" alt="" className="about__img" />
-                </div> */}
+                </div>
 
             </div>
 
