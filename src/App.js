@@ -6,7 +6,7 @@ import Navigation from './components/Navigation';
 import Intro from './components/Intro/Intro';
 import Contact from './components/Contact/Contact';
 import Project from './components/Projects/Project';
-import Resume from './components/Resume/Resume';
+import Experience from './components/Experience/Experience';
 import Footer from './components/Footer/Footer';
 
 
@@ -19,7 +19,7 @@ function App() {
         <Routes>
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Project />} />
-             <Route path="/resume" element={<Resume />} />
+             <Route path="/experience" element={<Experience />} />
              <Route path="/contact" element={<Contact />} />
              </Routes>
        
@@ -28,7 +28,7 @@ function App() {
         <Intro/>
         <About />
         <Project /> 
-        <Resume />
+        <Experience />
         <Contact/>
         <Footer/>
                 
