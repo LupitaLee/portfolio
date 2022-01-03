@@ -2,6 +2,8 @@ import React from 'react'
 import "./Experience.css"
 import { Nav, Col, Tab, Row,} from 'react-bootstrap'
 
+import FlatironSchool from '../FlatironSchool'
+
 
 
 const Experience = () => {
@@ -30,8 +32,8 @@ const Experience = () => {
                     <Tab.Content>
                         <Tab.Pane eventKey="first">
 
-                            hello
-                        {/* <Sonnet /> */}
+                        <FlatironSchool />
+                        
                         </Tab.Pane>
                         <Tab.Pane eventKey="second">
                         {/* <Sonnet /> */}
