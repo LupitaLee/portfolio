@@ -34,16 +34,16 @@ const Experience = () => {
                         <Nav.Link eventKey="third">Office Assistant</Nav.Link>
                         </Nav.Item>
 
-                        <Nav.Item>
+                        {/* <Nav.Item>
                         <Nav.Link eventKey="fourth">Customer Service Rep.</Nav.Link>
+                        </Nav.Item> */}
+
+                        <Nav.Item>
+                        <Nav.Link eventKey="fourth">Sales Rep.</Nav.Link>
                         </Nav.Item>
 
                         <Nav.Item>
-                        <Nav.Link eventKey="fifth">Sales Rep.</Nav.Link>
-                        </Nav.Item>
-
-                        <Nav.Item>
-                        <Nav.Link eventKey="sixth">Motherboard Tester / QC (Quality Control)</Nav.Link>
+                        <Nav.Link eventKey="fifth">Motherboard Tester / QC (Quality Control)</Nav.Link>
                         </Nav.Item>
 
                     </Nav>
