@@ -16,21 +16,23 @@ function App() {
       <Router>
      <Navigation />
      
+     <div>
         <Routes>
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
              <Route path="/experience" element={<Experience />} />
              <Route path="/contact" element={<Contact />} />
-             </Routes>
+        </Routes>
        
-        </Router>
-
         <Intro/>
         <About />
         <Projects /> 
         <Experience />
         <Contact/>
+        </div>
         <Footer/>
+
+        </Router>
                 
     </div>
   );
