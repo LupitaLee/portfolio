@@ -35,28 +35,6 @@ const About = () => {
                     </p>
 
 
-
-                    {/* <p>
-                        In my short time as a software engineer, I have learned to develop quickly, learning new skills. programming languages, problem-solving, and Model View Controller (MVC) methods of organizing code.Experienced with:
-                    </p>
-
-                    <ul>
-                        <li>{bullet}JavaScript (ES6+)</li>
-                        <li>{bullet}React</li>
-                        <li>{bullet}Redux</li>
-                        <li>{bullet}Ruby on Rails</li>
-                        <li>{bullet}Sinatra</li>
-                        <li>{bullet}SQL</li>
-                        <li>{bullet}HTML / CSS / ReactBootstrap</li>
-                        <li>{bullet}Git / Github</li>
-                    </ul>
-
-                    <p>
-                        I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
-
-                        Yet we never finish learning and there’s certainly more to learn, more problems to solve, and more to build. And for this, I am very grateful.
-                        </p> */}
-
                     
                 </div>
 
@@ -66,7 +44,7 @@ const About = () => {
 
                 
                 <div className="col__2">
-                    <img src="/p-pic.jpg" alt="" className="about__img" />
+                    <img src="/p-pic.jpg" alt=""  />
                 </div>
 
             </div>
