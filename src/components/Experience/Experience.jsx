@@ -6,6 +6,7 @@ import FlatironSchool from '../FlatironSchool'
 import Nisi from '../Nisi'
 import TexasProSigns from '../TexasProSigns'
 import CricketWireless from '../CricketWireless'
+import Motherboard from '../Motherboard'
 
 
 
@@ -70,6 +71,11 @@ const Experience = () => {
                         <Tab.Pane eventKey="fourth">
                             <CricketWireless />
                         </Tab.Pane>
+
+                        <Tab.Pane eventKey="fifth">
+                            <Motherboard />
+                        </Tab.Pane>
+
 
                         
 
