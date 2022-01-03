@@ -3,6 +3,7 @@ import "./Experience.css"
 import { Nav, Col, Tab, Row,} from 'react-bootstrap'
 
 import FlatironSchool from '../FlatironSchool'
+import Nisi from '../Nisi'
 
 
 
@@ -53,9 +54,11 @@ const Experience = () => {
                         <FlatironSchool />
 
                         </Tab.Pane>
+
                         <Tab.Pane eventKey="second">
-                        {/* <Sonnet /> */}
+                        <Nisi />
                         </Tab.Pane>
+
                     </Tab.Content>
                     </Col>
                 </Row>

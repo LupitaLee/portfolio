@@ -1,6 +1,7 @@
 import React from 'react'
 import "./About.css"
 
+
 const About = () => {
     const bullet = <span style={{ color: '#1282a2' }}>✿ </span>
     return (
@@ -8,6 +9,8 @@ const About = () => {
             <div className='title'>
                 <h3><span style={{ color: '#0a1128' }}>&gt;</span> ABOUT ME</h3>
             </div>
+
+  
             <div className='about-content'>
                 <div id='about-text'>
                     <p>
@@ -34,14 +37,14 @@ const About = () => {
                     
                 </div>
 
-                {/* <div id='photo-div' className='prof-pic'>
+                <div id='photo-div' className='prof-pic'>
                     <img id='prof-pic' src="/p-pic.jpg" alt='Lupita Rivera Profile Pic '></img>
-                </div> */}
+                </div>
 
                 
-                <div className="col__2">
+                {/* <div className="col__2">
                     <img src="/p-pic.jpg" alt="" className="about__img" />
-                </div>
+                </div> */}
 
             </div>
 
