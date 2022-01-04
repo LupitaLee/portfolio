@@ -17,7 +17,9 @@ function App() {
      <Navigation />
      
      <div>
+       
         <Routes>
+        {/* <Route path="/" element={<Intro />} /> */}
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
              <Route path="/experience" element={<Experience />} />

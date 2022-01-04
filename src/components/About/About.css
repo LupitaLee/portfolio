@@ -5,7 +5,7 @@
     /* align-items: center; */
 
     flex-wrap: wrap;
-    background-color: #fefcfb;
+    /* background-color: #fefcfb; */
     
   
 }
@@ -14,7 +14,7 @@
     margin-top: 20px;
     height: 100px;
     color: #fefcfb;
-    background-color:  #034078;
+    background-color:  #0a1128;
     display: flex;
     align-items: center;
     justify-items: center;
@@ -29,7 +29,7 @@
 }
 
 .about-content {
-    color: #353535;
+    /* color: #353535; */
     padding-top: 50px;
     margin: 60px 70px 20px 70px;
     flex-wrap: wrap;
@@ -46,8 +46,8 @@
    
     margin-right: 25px;
     max-width: 60%;
-    color: #353535;
-    font-size: 20px;
+    color: #fefcfb;
+    font-size: 25px;
 }
 
 
@@ -55,7 +55,7 @@
 .about-content li {
     
     font-family: 'Source Code Pro', monospace;
-    color: #978ea0;
+    color: #0466c8;
     text-align: center;
     padding: .75em;
     list-style-type: none;

@@ -10,7 +10,7 @@ const Footer = () => {
             {/* <img src={footerImg} alt="" className="footer__img pointer" /> */}
             <span
             className="copyright"
-            style={{ color: "#001f54", fontSize: "14px", opacity: "0.75" }}
+            style={{ color: "#fefcfb", fontSize: "14px", opacity: "0.75" }}
             >
             Copyright © 2021 programmer Lupita Rivera All Rights Reserved.
             </span>

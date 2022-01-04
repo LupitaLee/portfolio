@@ -3,11 +3,11 @@ import "./About.css"
 
 
 const About = () => {
-    const bullet = <span style={{ color: '#1282a2' }}>✿ </span>
+    const bullet = <span style={{ color: '#1282a2',fontSize:"35px" }}>✿ </span>
     return (
         <div id='about'>
             <div className='title'>
-                <h3><span style={{ color: '#0a1128' }}>&gt;</span> ABOUT ME</h3>
+                <h3><span style={{ color: '#1282a2' }}>&gt;</span> ABOUT ME</h3>
             </div>
 
   
@@ -45,9 +45,9 @@ const About = () => {
 
                 
                 <div className="col__2">
-                    <img src="/profile-pic.png" alt="lupita Rivera"  />
+                    <img src="./../profile-pic.png" alt="lupita Rivera"  />
                 </div>
-
+            
             </div>
 
         </div>

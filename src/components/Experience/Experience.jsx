@@ -17,7 +17,7 @@ const Experience = () => {
         
         <div id="experience">
             <div className='title'>
-                <h3><span style={{ color: '#0a1128' }}>&gt;</span> EXPERIENCE</h3>
+                <h3><span style={{ color: '#1282a2' }}>&gt;</span> EXPERIENCE</h3>
             </div>
 
            

@@ -3,14 +3,17 @@
     width: 100%;
     display: inline-flex;
     flex-flow: column wrap;
-    background-color: #fefcfb;
+    /* background-color: #fefcfb; */
 }
 
 .experience-Tab{
     margin-top: 100px;
+    color: #fefcfb;
 }
 
 .experience-resume{
     margin-top: 49px;
+    color: #fefcfb;
+    font-size: 50px;
 }
 
