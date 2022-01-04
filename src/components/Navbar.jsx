@@ -13,14 +13,14 @@ const Navigation = () => {
 
       <div id='navbar' className='navbar'>
             <div className='home'>
-                <Link id='home-btn' smooth to='#'>L✿R </Link>
+                <Link id='home-btn' smooth to='/#'>L✿R </Link>
                 {/* <button onClick={scrollToTop}>♦</button> */}
             </div>
             <div className='link'>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="#about">About</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="#projects">Projects</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="#experience">Experience</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="#contact">Contact</Link>
+                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#about">About</Link>
+                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#project">Projects</Link>
+                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#experience">Experience</Link>
+                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#contact">Contact</Link>
             </div>
         </div>
 
