@@ -1,7 +1,7 @@
 #about{
     min-height: 100vh;
-    /* display: inline-flex;
-    flex-flow: column wrap; */
+    /* display: inline-flex; */
+    /* flex-flow: column wrap; */
     /* align-items: center; */
 
     flex-wrap: wrap;
@@ -31,7 +31,7 @@
 .about-content {
     /* color: #353535; */
     padding-top: 50px;
-    margin: 60px 70px 20px 70px;
+    /* margin: 60px 70px 20px 70px; */
     flex-wrap: wrap;
     
     display: flex;
@@ -66,7 +66,7 @@
     display: flex 2;
 
     column-count: 2;
-    min-width: 230px
+    min-width: 350px
 
 
 
