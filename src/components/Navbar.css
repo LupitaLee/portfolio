@@ -2,7 +2,7 @@
     height:60px;
     width: 100%;
     position: fixed;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap-reverse; */
     top: 0;
     left: 0;
     /* background-color: transparent; */
@@ -43,12 +43,12 @@
 
     margin-left: 20px;
     font-size: 1em;
-    letter-spacing: 4pt;
+    letter-spacing: 2pt;
     margin-top: 20px;
     padding: 15px 22px 15px 25px;
     height: 50px;
-    background: #1282a2;
-    color: #eff2f9;
+    background: #eff2f9;
+    color: #0a1128;
     border-radius: 5px;
     transition: background-color 0.3s, box-shadow 0.3s, color 0.3s;
     text-decoration: none;
@@ -56,9 +56,14 @@
 }
 
 #home-btn:hover{
-    color: #0a1128;
+    /* background: #1282a2;
+    color: #eff2f9;
+
+    color: #0a1128; */
+
+    color: #eff2f9;
    
-	background-color: #fefcfb;
+	background-color: #1282a2;
 	box-shadow: inset 0 0 0 #86A6BA, 0 0 .5em #86A6BA;
     border: #1282a2 solid 2px;     
     cursor:pointer; 
