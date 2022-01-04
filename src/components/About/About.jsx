@@ -25,6 +25,8 @@ const About = () => {
                         <li>{bullet}Ruby on Rails</li>
                         <li>{bullet}Sinatra</li>
                         <li>{bullet}SQL</li> 
+                        <li>{bullet}MySQL</li> 
+                        <li>{bullet}ActiveRecord</li> 
                         <li>{bullet}HTML / CSS / React
                         Bootstrap</li>
                         <li>{bullet}Git / Github</li>

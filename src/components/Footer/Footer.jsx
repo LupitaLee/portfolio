@@ -12,7 +12,7 @@ const Footer = () => {
             className="copyright"
             style={{ color: "#fefcfb", fontSize: "14px", opacity: "0.75" }}
             >
-            Copyright © 2021 programmer Lupita Rivera All Rights Reserved.
+            Copyright © 2021 | Software Engineer Lupita Rivera | All Rights Reserved.
             </span>
       </div>
     )
