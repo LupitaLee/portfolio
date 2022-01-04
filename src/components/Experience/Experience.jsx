@@ -35,7 +35,7 @@ const Experience = () => {
                 <Row>
                     <Col sm={3}>
                     <Nav variant="pills" className="flex-column">
-                        <Nav.Item>
+                        <Nav.Item  >
                         <Nav.Link eventKey="first">Software Engineer Student</Nav.Link>
                         </Nav.Item>
 
@@ -58,10 +58,10 @@ const Experience = () => {
                     </Nav>
                     </Col>
                     <Col sm={7}>
-                    <Tab.Content>
-                        <Tab.Pane eventKey="first">
+                    <Tab.Content >
+                        <Tab.Pane  eventKey="first">
 
-                            <FlatironSchool />
+                            <FlatironSchool  />
 
                         </Tab.Pane>
 
