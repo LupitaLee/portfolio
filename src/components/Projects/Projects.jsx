@@ -30,7 +30,7 @@ const Projects = () => {
                 </div>
 
                 <div className="project-container">
-                <ProjectCard title='QUOTES' path='https://github.com/LupitaLee/quotes' src='https://images.unsplash.com/photo-1501747315-124a0eaca060?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHF1b3Rlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' alt='table with a coffe mug with a quote note' description='Through the Comand Line dysplay Quotes' label='CLI '/>
+                <ProjectCard title='QUOTES' path='https://github.com/LupitaLee/quotes' src='https://images.unsplash.com/photo-1501747315-124a0eaca060?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHF1b3Rlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' alt='table with a coffe mug with a quote note' description='Through the Comand Line display Quotes' label='CLI '/>
                 </div>
 
                 </div>
