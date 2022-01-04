@@ -3,7 +3,7 @@ import "./Projects.css"
 
 // import Slider from '../Slider/Slider'
 
-import ProjectCard from './ProjectCard'
+import ProjectCard from '../ProjectCard/ProjectCard'
 
 const Projects = () => {
     return (
