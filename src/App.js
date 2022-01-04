@@ -22,14 +22,14 @@ function App() {
      <div>
        
         <Routes>
-        <Route path="/" element={<Intro />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Projects />} />
-             <Route path="/experience" element={<Experience />} />
-             <Route path="/contact" element={<Contact />} />
+        <Route path="/#" element={<Intro />} />
+            <Route path="/#about" element={<About />} />
+            <Route path="/#projects" element={<Projects />} />
+             <Route path="/#experience" element={<Experience />} />
+             <Route path="/#contact" element={<Contact />} />
         </Routes>
        
-        {/* <Intro/> */}
+        <Intro/>
         <About />
         <Projects /> 
         <Experience />

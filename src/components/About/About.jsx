@@ -45,7 +45,7 @@ const About = () => {
 
                 
                 <div className="col__2">
-                    <img src="./../profile-pic.png" alt="lupita Rivera"  />
+                    <img src="../profile-pic.png" alt="lupita Rivera"  />
                 </div>
             
             </div>

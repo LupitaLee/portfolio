@@ -1,9 +1,9 @@
 #project{
     min-height: 100vh;
     width: 100%;
-    /* display: inline-flex; */
     flex-flow: column wrap;
-    /* background-color: #001f54; */
+
+    
 
   
 }
