@@ -2,7 +2,9 @@ import React from 'react'
 import "./Contact.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin, faDev, faGoogle} from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faLinkedin, faDev  } from '@fortawesome/free-brands-svg-icons'
+
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 const Contact = () => {
     return (
@@ -29,7 +31,7 @@ const Contact = () => {
                         </a>
 
                         <a href='mailto:lupitarivera8899@gmail.com'>
-                            <FontAwesomeIcon icon={faGoogle}></FontAwesomeIcon>
+                            <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
                         </a>
                              
                     </div>
