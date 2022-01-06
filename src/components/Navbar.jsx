@@ -14,7 +14,7 @@ const Navigation = () => {
       <div id='navbar' className='navbar'>
             <div className='home'>
                 <Link id='home-btn' smooth to='/#'>L✿R </Link>
-                {/* <button onClick={scrollToTop}>♦</button> */}
+             
             </div>
             <div className='link'>
                 <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#about">About</Link>
