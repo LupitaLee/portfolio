@@ -22,7 +22,7 @@ const Intro = () => {
                 
                 <div className="intro-bio">
                     <p>
-                    Experienced React JS and Ruby on Rails developer with a background in the costumer service industry.
+                    Experienced React JS and Ruby on Rails developer with a background in the Customer service industry.
                     </p>
                 </div>
 
