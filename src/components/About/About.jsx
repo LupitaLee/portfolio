@@ -47,7 +47,7 @@ const About = () => {
 
                 
                 <div className="col__2">
-                    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEt9fStOlRTzw/profile-displayphoto-shrink_400_400/0/1626996653087?e=1646870400&v=beta&t=_flxZr2MHJKdAS5UqC24uSPHT-o28185QQT5Lb04-7Y" alt="lupita Rivera"  />
+                    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGkApLaJupU-Q/profile-displayphoto-shrink_400_400/0/1641605026778?e=1646870400&v=beta&t=oVKYWhRzwGOlfTJKwTUINHIzQ_whKTYR-8Pd4mMjO5E" alt="lupita Rivera"  />
                 </div>
             
             </div>
