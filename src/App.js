@@ -18,8 +18,7 @@ function App() {
       <Router>
         <ScrollToTop/>
      <Navbar />
-     
-     <div>
+    
        
         <Routes>
         <Route path="/#" element={<Intro />} />
@@ -34,7 +33,7 @@ function App() {
         <Projects /> 
         <Experience />
         <Contact/>
-        </div>
+       
         <Footer/>
 
         </Router>

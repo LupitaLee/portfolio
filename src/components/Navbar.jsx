@@ -17,10 +17,10 @@ const Navigation = () => {
              
             </div>
             <div className='link'>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#about">About</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#project">Projects</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#experience">Experience</Link>
-                <Link smooth activeStyle={{ textDecoration: "overline" }} to="/#contact">Contact</Link>
+                <Link smooth  to="/#about">About</Link>
+                <Link smooth  to="/#project">Projects</Link>
+                <Link smooth to="/#experience">Experience</Link>
+                <Link smooth to="/#contact">Contact</Link>
             </div>
         </div>
 
