@@ -1,8 +1,11 @@
 import React from 'react'
 import "./Navbar.css"
-// import {Navbar, Container,Nav} from "react-bootstrap"
+// import {Dropdown, DropdownButton} from "react-bootstrap"
 
 import { NavHashLink as Link } from 'react-router-hash-link';
+
+// import { faBars } from '@fortawesome/free-solid-svg-icons'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Navigation = () => {
 
@@ -12,16 +15,30 @@ const Navigation = () => {
 
 
       <div id='navbar' className='navbar'>
+
+
             <div className='home'>
                 <Link id='home-btn' smooth to='/#'>L✿R </Link>
              
-            </div>
+            </div >
+
             <div className='link'>
-                <Link smooth  to="/#about">About</Link>
+           
+
+               
+
+
+                <Link class="active" smooth  to="/#about">About</Link>
+
                 <Link smooth  to="/#project">Projects</Link>
+
                 <Link smooth to="/#experience">Experience</Link>
+
                 <Link smooth to="/#contact">Contact</Link>
             </div>
+
+       
+
         </div>
 
 
