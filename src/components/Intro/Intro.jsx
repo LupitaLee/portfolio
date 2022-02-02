@@ -9,7 +9,7 @@ const Intro = () => {
         {/* <div className="intro-hello">Hello, My name is</div> */}
             <div id='intro' >
 
-            <div className="intro-hello"><h3>Hello, My name is</h3></div>
+            <div className="intro-hello"><h3>Hi there! My name is</h3></div>
 
                 <div className='intro-name'>
             
@@ -17,12 +17,12 @@ const Intro = () => {
                 </div>
                 
                 <div className='intro-tagline'>
-                <h3>Full Stack Software Engineer</h3>
+                <h3>I'm a Full Stack Software Engineer</h3>
                 </div>
                 
                 <div className="intro-bio">
                     <p>
-                    Experienced React JS and Ruby on Rails developer with a background in the Customer service industry.
+                    I have experience in JavaScript, React, Ruby, and Ruby on Rails.
                     </p>
                 </div>
 
