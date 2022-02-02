@@ -37,9 +37,10 @@
 }
 
 .link a:hover{
-    background: #001233;
+    background: #71D4EF;
     text-align: center;
     border-radius: 3px;
+    color:  hsla(233, 100%, 14%, 0.801);
 }
 
 #home-btn{
