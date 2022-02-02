@@ -25,10 +25,11 @@
 
 
 .link a {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     display: inline-flex;
     color: #eff2f9;
     text-align: center;
+    font-weight: bold;
    
     margin-right: 30px;
     padding: 5px;
@@ -45,7 +46,7 @@
 }
 
 #home-btn{
-
+    font-weight: bold;
     margin-left: 20px;
     font-size: 1.5rem;
     letter-spacing: 2pt;
