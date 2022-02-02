@@ -3,7 +3,7 @@
     width: 100%;
     display: inline-flex;
     flex-flow: column wrap;
-    /* background-color: #001f54; */
+   
   
 }
 
@@ -23,6 +23,7 @@
 }
 
 .socials a {
+   
     color: #fefcfb ;
     width: 120px;
     height: 120px;
@@ -35,10 +36,11 @@
 
 
 .socials a:hover{
-    opacity: 30%;
+    /* opacity: 30%; */
     transform: scale(1.05);
     transition: all 0.3s linear;
-    color: #1282a2;
+    color: #71D4EF;
+   
   
  } 
 
