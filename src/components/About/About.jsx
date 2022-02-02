@@ -19,17 +19,19 @@ const About = () => {
                     </p>
 
                     <ul>
-                        <li>{bullet}JavaScript (ES6+)</li>
-                        <li>{bullet}React</li>
-                        <li>{bullet}Redux</li>
-                        <li>{bullet}Ruby on Rails</li>
-                        <li>{bullet}Sinatra</li>
-                        <li>{bullet}SQL</li> 
-                        <li>{bullet}MySQL</li> 
-                        <li>{bullet}Active Record</li> 
-                        <li>{bullet}HTML / CSS / React
-                        Bootstrap</li>
-                        <li>{bullet}Git / Github</li>
+                        <li>{bullet}<br/>
+                        JavaScript (ES6+)</li>
+                        <li>{bullet}<br/>React</li>
+                        <li>{bullet}<br/>Redux</li>
+                        <li>{bullet}<br/>Ruby on Rails</li>
+                        <li>{bullet}<br/>Sinatra</li>
+                        <li>{bullet}<br/>SQL</li> 
+                        <li>{bullet}<br/>MySQL</li> 
+                        <li>{bullet}<br/>Active Record</li> 
+                        <li>{bullet}<br/>HTML</li>
+                        <li>{bullet}<br/> CSS</li>
+                        <li>{bullet}<br/> React Bootstrap</li>
+                        <li>{bullet}<br/>Git / GitHub</li>
                     </ul>
 
                     <p>
