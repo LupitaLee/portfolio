@@ -3,7 +3,7 @@ import "./About.css"
 
 
 const About = () => {
-    const bullet = <span style={{ color: '#1282a2',fontSize:"35px" }}>✿ </span>
+    const bullet = <span style={{ color: '#71D4EF',fontSize:"35px" }}>✿ </span>
     return (
         <div id='about'>
             <div className='title'>
