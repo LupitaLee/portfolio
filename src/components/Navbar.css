@@ -10,7 +10,7 @@
     /* background-color: transparent; */
     /* background: radial-gradient(ellipse farthest-corner, #fff 5%, #001233 50%); */
     background: hsla(233, 100%, 14%, 0.801);
-    text-shadow: hsl(193, 80%, 35%) 4px 4px 3px; 
+    /* text-shadow: hsl(193, 80%, 35%) 4px 4px 3px;  */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -25,6 +25,7 @@
 
 
 .link a {
+    font-size: 1.5rem;
     display: inline-flex;
     color: #eff2f9;
     text-align: center;
@@ -44,7 +45,7 @@
 #home-btn{
 
     margin-left: 20px;
-    font-size: 1em;
+    font-size: 1.5rem;
     letter-spacing: 2pt;
     margin-top: 20px;
     padding: 15px 22px 15px 25px;

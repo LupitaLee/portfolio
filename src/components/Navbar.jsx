@@ -1,11 +1,9 @@
 import React from 'react'
 import "./Navbar.css"
-// import {Dropdown, DropdownButton} from "react-bootstrap"
 
 import { NavHashLink as Link } from 'react-router-hash-link';
 
-// import { faBars } from '@fortawesome/free-solid-svg-icons'
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 const Navigation = () => {
 
