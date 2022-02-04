@@ -4,9 +4,12 @@
     display: inline-flex;
     flex-flow: column wrap;
    
+   
 }
 
+
 .experience-Tab{
+   
    margin-left: 50px;
     margin-top: 100px;
     color: #fefcfb;
@@ -14,7 +17,8 @@
 }
 
 .experience-resume{
-    margin-top: 49px;
+    
+    /* margin-top: 49px; */
     color: #fefcfb;
     font-size: 50px;
 }

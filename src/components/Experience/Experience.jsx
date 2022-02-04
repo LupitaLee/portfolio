@@ -12,7 +12,7 @@ import Motherboard from '../Motherboard'
 
 const Experience = () => {
     return (
-        <div>
+        <div >
 
         
         <div id="experience">
@@ -20,13 +20,14 @@ const Experience = () => {
                 <h3><span style={{ color: '#1282a2' }}>&gt;</span> EXPERIENCE</h3>
             </div>
 
-           
+          
 
             <div className="experience-resume">
                 <h3 >Résumé</h3>
 
                 <a className="btn btn-dark btn-xl" href="https://docs.google.com/document/d/1PwyhmqWtJoo9GvrLx0JhWJJU8sUZ7KHRFhLRGhdP7O0/edit?usp=sharing">Download PDF Version</a>
             </div>
+           
            
 
             <div className='experience-Tab'>

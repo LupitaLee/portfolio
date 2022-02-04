@@ -16,12 +16,14 @@
     margin-top: 50px;
    
     justify-content: space-around;
+    /* justify-content: center; */
 
    
 }
 
 .project-container{
      display: grid;
+     
  
 }
 
@@ -40,5 +42,6 @@
     transition: opacity 500ms ease-in;
 
     align-items: center;
+    
     
   }

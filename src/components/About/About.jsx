@@ -7,7 +7,7 @@ const About = () => {
     return (
         <div id='about'>
             <div className='title'>
-                <h3><span style={{ color: '#1282a2' }}>&gt;</span> ABOUT ME</h3>
+                <h3><span style={{ color: '#71D4EF' }}>&gt;</span> ABOUT ME</h3>
             </div>
 
   
@@ -48,10 +48,11 @@ const About = () => {
                 </div> */}
 
                 
-                <div className="col__2">
-                    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEDGWt1pHkDMA/profile-displayphoto-shrink_800_800/0/1642392504481?e=1648080000&v=beta&t=Uv9QieBNen8YST5cSgfE2DJ9NYJPlydGGKUAQdEYWmM" alt="lupita Rivera"  />
-                </div>
+               
             
+            </div>
+            <div className="col__2">
+                    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEDGWt1pHkDMA/profile-displayphoto-shrink_800_800/0/1642392504481?e=1648080000&v=beta&t=Uv9QieBNen8YST5cSgfE2DJ9NYJPlydGGKUAQdEYWmM" alt="lupita Rivera"  />
             </div>
 
         </div>
