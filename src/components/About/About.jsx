@@ -17,6 +17,14 @@ const About = () => {
                     <p>
                     As a Full Stack Web Developer, I thrive in a dynamic environment and am confident in my decision-making ability. A quick learner, creative thinker, and problem-solver, I’m experienced with:
                     </p>
+                    <p>
+                    
+                    When I’m not coding, I’m learning the Korean Language, and supporting the family business.
+                    </p>
+
+                    <div className='title-second'>
+                <h3><span style={{ color: '#71D4EF' }}>&gt;</span> Skills</h3>
+            </div>
 
                     <ul>
                         <li>{bullet}<br/>
@@ -34,10 +42,7 @@ const About = () => {
                         <li>{bullet}<br/>Git / GitHub</li>
                     </ul>
 
-                    <p>
-                    
-                    When I’m not coding, I’m learning the Korean Language, and supporting the family business.
-                    </p>
+                   
 
 
                     

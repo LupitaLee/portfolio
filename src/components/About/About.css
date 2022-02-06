@@ -22,7 +22,24 @@
     font-size: 20pt;
 }
 
+.title-second {
+    /* margin-top: 20px; */
+    height: 100px;
+    color: #fefcfb;
+    /* background-color:  #0a1128; */
+    /* display: flex; */
+    align-items: center;
+    justify-items: center;
+    font-size: 20pt;
+}
+
 .title h3{
+    margin-left: 25pt;
+    font-size: 1.5em;
+    letter-spacing: 4pt;
+  
+}
+.title-second h3{
     margin-left: 25pt;
     font-size: 1.5em;
     letter-spacing: 4pt;
