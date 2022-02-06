@@ -30,29 +30,13 @@ const About = () => {
 
                     <div className="col__2">
                     <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEDGWt1pHkDMA/profile-displayphoto-shrink_800_800/0/1642392504481?e=1648080000&v=beta&t=Uv9QieBNen8YST5cSgfE2DJ9NYJPlydGGKUAQdEYWmM" alt="lupita Rivera"  />
-            </div>   <br/>  
+                     </div>   <br/>  
 
 
 
-                    <div className='title-second'>
-                <h3 style={{ color: '#71D4EF' }}> My Stack</h3>
-            </div> 
+                   
 
-                    <ul>
-                        <li>{bullet}<br/>
-                        JavaScript (ES6+)</li>
-                        <li>{bullet}<br/>React</li>
-                        <li>{bullet}<br/>Redux</li>
-                        <li>{bullet}<br/>Ruby on Rails</li>
-                        <li>{bullet}<br/>Sinatra</li>
-                        <li>{bullet}<br/>SQL</li> 
-                        <li>{bullet}<br/>MySQL</li> 
-                        <li>{bullet}<br/>Active Record</li> 
-                        <li>{bullet}<br/>HTML</li>
-                        <li>{bullet}<br/> CSS</li>
-                        <li>{bullet}<br/> React Bootstrap</li>
-                        <li>{bullet}<br/>Git / GitHub</li>
-                    </ul>
+                    
 
                    
 
@@ -60,13 +44,31 @@ const About = () => {
                     
                 </div>
 
-                {/* <div id='photo-div' className='prof-pic'>
-                    <img id='prof-pic' src="/p-pic.jpg" alt='Lupita Rivera Profile Pic '></img>
-                </div> */}
-
-                
-               
+              
             
+            </div>
+
+            <div className='title-second'>
+                <h3 style={{ color: '#71D4EF' }}> My Stack</h3>
+            </div> 
+
+            <div className="about-stacks">
+          
+      
+                        <div>{bullet}<br/>
+                        JavaScript (ES6+)</div>
+                        <div>{bullet}<br/>React</div>
+                        <div>{bullet}<br/>Redux</div>
+                        <div>{bullet}<br/>Ruby on Rails</div>
+                        <div>{bullet}<br/>Sinatra</div>
+                        <div>{bullet}<br/>SQL</div> 
+                        <div>{bullet}<br/>MySQL</div> 
+                        <div>{bullet}<br/>Active Record</div> 
+                        <div>{bullet}<br/>HTML</div>
+                        <div>{bullet}<br/> CSS</div>
+                        <div>{bullet}<br/> React Bootstrap</div>
+                        <div>{bullet}<br/>Git / GitHub</div>
+                  
             </div>
            
 
