@@ -18,7 +18,11 @@ const Projects = () => {
                 </div>
 
                 <div className="project-container">
-                <ProjectCard title='Food Court Online' path='https://github.com/LupitaLee/FoodCourtOnline' src='https://images.unsplash.com/photo-1593768128575-e41545e803d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbGwlMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60' alt='front side of a restaurant with tables and people eating' description='Order Online Food Mall Courts' label='Vanilla Javascript'/>
+                <ProjectCard title='Food Court Online' path='https://github.com/LupitaLee/FoodCourtOnline' src='https://images.unsplash.com/photo-1593768128575-e41545e803d8?ixlib=rb-1.2.1&ixid=%3D%3D&auto=format&=&w=500&q=60' alt='front side of a restaurant with tables and people eating' description='Order Online Food Mall Courts' label='Vanilla Javascript'/>
+                </div>
+
+                <div className="project-container">
+                <ProjectCard title='Photos Website' path='https://github.com/LupitaLee/photos_website' src='' label='Ruby on Rails '/>
                 </div>
 
                 <div className="project-container">
