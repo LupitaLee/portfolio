@@ -22,7 +22,7 @@ const Projects = () => {
                 </div>
 
                 <div className="project-container">
-                <ProjectCard title='Photos Website' path='https://github.com/LupitaLee/photos_website' src='https://images.unsplash.com/photo-1555663173-830f65a7329a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aW5zdGFncmFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60' label='Ruby on Rails '/>
+                <ProjectCard title='Photos Website' path='https://github.com/LupitaLee/photos_website' src='https://images.unsplash.com/photo-1555663173-830f65a7329a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aW5zdGFncmFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60' description='Portfolio Creator using CRUD functionalities and User Auth' label='Ruby on Rails '/>
                 </div>
 
                 <div className="project-container">
