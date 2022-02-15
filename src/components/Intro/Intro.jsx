@@ -13,7 +13,7 @@ const Intro = () => {
 
                 <div className='intro-name'>
             
-                <h1> Lupita <span style={{ color: '#71D4EF' }}> ✿ </span> Rivera</h1>
+                <h1> Lupita  Rivera</h1>
                 </div>
                 
                 <div className='intro-tagline'>
