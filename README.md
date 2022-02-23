@@ -7,4 +7,4 @@
 https://lupitalee.github.io/portfolio/
 
 
-Welcome to my portfoli, here you will be able to find the most updated projects that I have worked on, and the experience with the languages and framework that I used.
+Welcome to my portfolio, here you will be able to find the most updated projects that I have worked on, and the experience with the languages and frameworks that I used.
